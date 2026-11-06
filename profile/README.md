@@ -1,6 +1,23 @@
-<img width="1280" height="320" alt="Github Banner Art" src="https://github.com/user-attachments/assets/9c5cd2a3-6878-42a2-976a-c8d4ae5f969a" />
+<img width="1280" height="320" alt="Github Banner Art (2)" src="https://github.com/user-attachments/assets/605e8270-032c-408b-a2f2-7eef111d8405" />
 
-## Hi there 👋
+## Introductions
+
+This organization is used to store our scripts here for the National Youth Cyber Defense Competition (CyberPatriots).
+
+## About Us
+
+```python
+team_profile = {
+    "Division": "Open Division",
+    "Affiliation": "Cabarrus Early College Of Technology",
+    "Team Name": "Secure Innovation",
+    "Team Number": "19-0798",
+    "Current Season": "CyberPatriot 19 (2026–2027)"}
+```
+
+## What is CyberPatriots?
+
+The National Youth Cyber Defense Competition, also commonly referred to as CyberPatriots.
 
 <!--
 
