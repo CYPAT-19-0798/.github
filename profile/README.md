@@ -17,7 +17,7 @@ team_profile = {
 
 ## What is CyberPatriots?
 
-The National Youth Cyber Defense Competition, also commonly referred to as CyberPatriots.
+The National Youth Cyber Defense Competition, also commonly referred to as CyberPatriots, is the nation’s largest K–12 cybersecurity competition, created by the Air & Space Forces Association (AFA) to inspire students toward careers in cybersecurity and STEM. Rather than hacking into systems, students play the role of newly hired IT defenders tasked with securing a simulated company’s broken computer network against threats.
 
 <!--
 
